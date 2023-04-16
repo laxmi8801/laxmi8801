@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laxmi Panch</h1>
-<h3 align="center">A passionate Django developer from India</h3>
+<h3 align="center">A passionate Django developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi8801&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi8801" /> </p>
 
@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmi8801&show_icons=true&locale=en" alt="laxmi8801" /></p>
 
-
+![](https://leetcard.jacoblin.cool/Laxmi_panch?ext=contest)
