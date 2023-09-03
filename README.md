@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmi8801&label=Profile%20views&color=0e75b6&style=flat" alt="laxmi8801" /> </p>
 
-- 🔭 I’m currently working on [CVD Anaylsis using XAI](https://github.com/laxmi8801/CardioVasular-Disease)
 
-- 🌱 I’m currently learning **Explainable AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://laxmi8801.github.io/porfolio/](https://laxmi8801.github.io/porfolio/)
 
-- 💬 Ask me about **Django, Machine Learning**
+- 💬 Ask me about **Django, Machine Learning and AI**
 
 - 📫 How to reach me **laxmipanch88@gmail.com**
 
