@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> My name is Laxmi and I am a Data Scientist</p>
-<h3>My tooks and tecnologies</h3>
+<h3>My tools and technologies</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="GenAI" src="https://img.shields.io/badge/-Generative AI-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -10,10 +10,10 @@
   <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=C&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-430098?style=flat-square&logo=Postman&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FB542B?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="SAP BTP" src="https://img.shields.io/badge/-SAP%20BTP-45b8d8?style=flat-square&logo=sap&logoColor=blue" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-EC4A3F?style=flat-square&logo=django.js&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-430098??style=flat-square&logo=django.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask.js-F9A03C?style=flat-square&logo=FLask.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -37,7 +37,7 @@
 
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/@laxmipanch/breaking-down-metas-llama-3-1-4eca6c1a05e2"><b>< Breaking down Meta’s LLaMa 3.1</b></a>
+  <li><a href="https://medium.com/@laxmipanch/breaking-down-metas-llama-3-1-4eca6c1a05e2"><b>Breaking down Meta’s LLaMa 3.1</b></a>
   <li><a href="https://medium.com/@laxmipanch/tracing-the-roots-the-origin-of-aritifical-intelligence-66e8312eaf51"><b>Tracing the roots: The origin of Aritifical Intelligence</b></a>
   <li><a href="https://medium.com/@laxmipanch/the-storytellers-guide-to-data-science-29753c0b5f5b"><b>The Storyteller’s Guide to Data Science</b></a>
   <li><a href="https://medium.com/@laxmipanch/decode-the-data-with-decision-trees-b8d7fc8f07b1"><b>Decode the Data with Decision Trees</b></a>
