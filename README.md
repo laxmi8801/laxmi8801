@@ -4,7 +4,7 @@
 <h3>My tools and technologies</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
-  <img alt="GenAI" src="https://img.shields.io/badge/-Generative AI-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="GenAI" src="https://img.shields.io/badge/-Generative AI-CC6699?style=flat-square&logo=generativeai&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-8DD6F9?style=flat-square&logo=azure&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
@@ -47,6 +47,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmi8801&show_icons=true&locale=en&layout=compact" alt="laxmi8801" /></p>
+
+<br>
 
 <h3>Where to find me</h3>
 <p><a href=https://github.com/laxmi8801" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/LaxmiPanch" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/laxmipanch/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@laxmipanch" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
